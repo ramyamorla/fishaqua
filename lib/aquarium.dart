@@ -139,7 +139,7 @@ class _AquariumScreenState extends State<AquariumScreen>
               SizedBox(
                   height: screenHeight * 0.02), // Responsive space at the top
 
-              // Container that represents the aquarium
+              
               Center(
                 child: Container(
                   width: screenWidth * 0.8, // 80% of the screen width
