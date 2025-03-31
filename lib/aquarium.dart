@@ -101,7 +101,7 @@ class _AquariumScreenState extends State<AquariumScreen>
       setState(() {
         fish1.color = Random().nextBool()
             ? Colors.red
-            : Colors.green; // Random color change
+            : Colors.green; 
       });
     }
   }
