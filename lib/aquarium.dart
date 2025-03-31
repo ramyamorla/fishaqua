@@ -80,7 +80,7 @@ class _AquariumScreenState extends State<AquariumScreen>
     }
   }
 
-  // Update the positions of fish and check for collisions
+  
   void _updateFishPositions() {
     setState(() {
       for (var fish in fishList) {
